@@ -1,0 +1,1 @@
+export { RecommendationsToFollow } from './RecommendationsToFollow';
